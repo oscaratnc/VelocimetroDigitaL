@@ -22,6 +22,7 @@
 		558144A91D013AD800C10987 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		558144AC1D013AD800C10987 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		558144AE1D013AD800C10987 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		558144B41D013B1B00C10987 /* VelocimetroDigital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VelocimetroDigital.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		558144961D013AD800C10987 = {
 			isa = PBXGroup;
 			children = (
+				558144B41D013B1B00C10987 /* VelocimetroDigital.playground */,
 				558144A11D013AD800C10987 /* VelocimetroDigital */,
 				558144A01D013AD800C10987 /* Products */,
 			);
