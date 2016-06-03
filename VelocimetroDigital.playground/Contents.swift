@@ -63,11 +63,7 @@ class Auto{
     
     for i in 1...20{
         
-        print(auto.cambioDeVelocidades())
+       var (actual, VelocidadenCadena) =  auto.cambioDeVelocidades()
+    print( "\(actual), "+VelocidadenCadena)
         
     }
-    
-        
-        
-
-
